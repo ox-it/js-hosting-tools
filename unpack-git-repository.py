@@ -6,7 +6,6 @@ directory.
 import itertools
 import os
 import shutil
-import subprocess
 import sys
 import git
 
